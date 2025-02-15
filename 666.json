@@ -168,7 +168,7 @@
             "key": "IK",
             "name": "IK",
             "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/",
+            "api": "https://gh-proxy.com/ikunzyapi.com/api.php/provide/vod/",
             "categories": [
                 "动作片",
                 "喜剧片",
