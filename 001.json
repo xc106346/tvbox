@@ -184,7 +184,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "賤賤",
       "name": "📓賤片┃p2p📓",
       "type": 3,
@@ -208,7 +208,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "WexjuhuangGuard",
       "name": "💥剧荒┃影视💥",
       "type": 3,
@@ -233,7 +233,7 @@
       "changeable": 1
     },
 
-    {
+        {
       "key": "SubaibaiGuard",
       "name": "🎇白白┃秒播🎇",
       "type": 3,
@@ -241,7 +241,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "WexquickvodGuard",
       "name": "🎇美剧┃秒播🎇",
       "type": 3,
@@ -249,7 +249,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "Wexduboku",
       "name": "🎇独播┃秒播🎇",
       "type": 3,
@@ -257,7 +257,7 @@
       "searchable": 1,
       "changeable": 1
     },	
-    {
+        {
       "key": "Wex4Kav",
       "name": "🎇急速┃秒播🎇",
       "type": 3,
@@ -265,7 +265,7 @@
       "searchable": 1,
       "changeable": 1
     },	
-    {
+        {
       "key": "Wexbaipiao",
       "name": "🎇星星┃秒播🎇",
       "type": 3,
@@ -273,7 +273,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "Wexsaohuo",
       "name": "🎇火火┃秒播🎇",
       "type": 3,
@@ -289,7 +289,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "Wexbaozitv",
       "name": "🎇包子┃秒播🎇",
       "type": 3,
@@ -343,7 +343,7 @@
       "name": "catflix",
       "type": 3,
       "api": "csp_catflix",
-      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/catflix.js"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/Yswag/xptv-extensions/main/js/catflix.js"
     },
 	  {
         "key":"非凡",
@@ -441,7 +441,7 @@
    "key": "360",
    "name": "🛝360┃采集🛝",
    "type": 1,
-   "api": "https://360zy.com/api.php/provide/vod?",
+   "api": "https://360zy.com/api.php/provide/vod/",
    "searchable": 1,
    "changeable": 1,
    "categories": [
@@ -484,7 +484,7 @@
    "key": "爱坤",
    "name": "🛝爱坤┃采集🛝",
    "type": 1,
-   "api": "https://ikunzyapi.com/api.php/provide/vod?",
+   "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "searchable": 1,
    "changeable": 1,
    "categories": [
