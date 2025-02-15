@@ -44,6 +44,8 @@
             "name": "IK",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+            "searchable": 1,
+            "changeable": 1,
             "categories": [
                 "动作片",
                 "喜剧片",
@@ -98,8 +100,6 @@
                 "电影解说"
                 "里番动漫"
 	    ]
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
    "key": "360",
