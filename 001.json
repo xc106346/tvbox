@@ -337,14 +337,16 @@
       "api": "csp_WexbttwoGuard",
       "searchable": 1,
       "changeable": 1
-    },	{
+    },	  
+        {
+      "key": "catflix",
       "name": "catflix",
-            "type": 3,
-            "api": "csp_catflix",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/catflix.js"
+      "type": 3,
+      "api": "csp_catflix",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/catflix.js"
     },
-
-	{"key":"非凡",
+	  {
+        "key":"非凡",
 	"name":"🛝非凡┃采集🛝",
 	"type":1,
 	"api":"http://api.ffzyapi.com/api.php/provide/vod",
@@ -378,7 +380,8 @@
 	"国产动漫",
 	"港台动漫"]
 	},
-	{"key":"木耳",
+	{
+     "key":"木耳",
 	"name":"🛝木耳┃采集🛝",
 	"type":1,
 	"api":"https://json02.heimuer.xyz/api.php/provide/vod",
@@ -515,7 +518,7 @@
 
    ]
   },
-    {
+        {
       "key": "新6V",
       "name": "🛩️新6V┃P2P🛩",
       "type": 3,
@@ -531,7 +534,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "Wexwencai",
       "name": "🌺文才┃秒播🌺",
       "type": 3,
@@ -575,7 +578,7 @@
         }
     },
 	
-    {
+        {
       "key": "Wexduanjuvop",
       "name": "🍉短剧┃秒播🍉",
       "type": 3,
@@ -583,7 +586,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "Wexduanjuhema",
       "name": "🍉短剧┃仙品🍉",
       "type": 3,
@@ -591,7 +594,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "WexduanjuvmpGuard",
       "name": "🍉短剧┃帝品🍉",
       "type": 3,
@@ -607,7 +610,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
       "key": "Wexduanju001",
       "name": "🍉短剧┃极品🍉",
       "type": 3,
@@ -643,7 +646,7 @@
         "ratio": 2
         }
     },
-    {
+        {
       "key": "Wextangdou",
       "name": "💃跳舞┃教学💃",
       "type": 3,
@@ -762,7 +765,7 @@
         "type": "list"
         }
     },
-    {
+        {
       "key": "AList",
       "name": "🥇Alist┃DIY🥇",
       "type": 3,
@@ -781,16 +784,16 @@
 	 "style":{"type":"rect","ratio":1.433},
      "ext":{"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"}
 	 },
-    {
-		"key":"biliych",
-		"name":"🅱哔哔┃歌曲🅱",
-		"type":3,
-		"api":"csp_BiliGuard",
-		"searchable":0,
-		"quickSearch":1,
-		"filterable":1,
-		"style":{"type":"rect","ratio":1.433},
-        "ext":{"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"}
+          {
+	"key":"biliych",
+	 "name":"🅱哔哔┃歌曲🅱",
+	 "type":3,
+	 "api":"csp_BiliGuard",
+	 "searchable":0,
+	 "quickSearch":1,
+	 "filterable":1,
+	 "style":{"type":"rect","ratio":1.433},
+         "ext":{"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"}
 	},
 	{
       "key": "Wexqingfengdj",
@@ -846,7 +849,7 @@
         "type": "list"
       }
     },
-	    {
+        {
       "key": "1直播",
       "name": "🌐一直┃体育🌐",
       "type": 3,
@@ -1084,13 +1087,13 @@
 	"pv.vipwm.cc"
   ],
    "lives": [	
-    {
+          {
         "name": "钵钵鸡",
         "type": 0,
         "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u",
         "playerType": 1
     },
-    {
+          {
         "name": "范明明",
         "type": 0,
         "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
