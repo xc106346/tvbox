@@ -9,7 +9,7 @@ download:
   filenameTemplate: "{{filename}}_{{spec}}"
   dir: "%UserDownloads%"
   pauseWhenDownload: false
-  frontend: false
+  frontend: true
 
 api:
   hostname: "127.0.0.1"
