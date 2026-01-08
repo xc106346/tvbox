@@ -1,0 +1,24 @@
+debug:
+  error: false
+
+pagespy:
+  enabled: false
+
+download:
+  defaultHighest: false
+  filenameTemplate: "{{filename}}_{{spec}}"
+  dir: "%UserDownloads%"
+  pauseWhenDownload: false
+  frontend: false
+
+api:
+  hostname: "127.0.0.1"
+  port: 2022
+
+proxy:
+  system: true
+  hostname: "127.0.0.1"
+  port: 2023
+
+channel:
+  disableLocationToHome: false
